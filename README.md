@@ -2,7 +2,7 @@
 **FutureIntern Internship Project | Python | Data Visualization | Sentiment Analysis**
 
 ## 🔍 Project Summary  
-As part of my **FutureIntern analytics internship**, I analyzed student feedback data to uncover insights about teaching quality, assignment difficulty, and overall course relevance. This project helped me practice Python-based data cleaning, visualization, and sentiment categorization—while learning to connect data to real-world impact.
+As part of my **FutureIntern analytics internship**, I analyzed student feedback data to uncover insights about teaching quality, assignment difficulty, and overall course relevance. This project helped me practice Python-based data cleaning, visualization, and sentiment categorization while learning to connect data to real-world impact.
 
 ---
 
